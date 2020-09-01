@@ -1,0 +1,1 @@
+enum SignInResult { signedIn, invalidInput }
