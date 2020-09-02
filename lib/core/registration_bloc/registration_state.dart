@@ -10,7 +10,3 @@ class SignInLoading extends RegistrationState {}
 class SignInInvalidInput extends RegistrationState {}
 
 class SignedIn extends RegistrationState {}
-
-class SignUpLoading extends RegistrationState {}
-
-class AccountCreated extends RegistrationState {}

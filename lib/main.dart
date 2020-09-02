@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:bloc_demo/ui/login_screen.dart';
+import 'package:bloc_demo/ui/views/login_screen.dart';
 
 void main() => runApp(BLoC());
 
